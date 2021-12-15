@@ -1,0 +1,19 @@
+# System files
+.idea
+.DS_Store
+Thumbs.db
+
+# compiled / dependencies
+dist
+node_modules
+terraform/.terraform
+terraform/shared/.terraform
+*.zip
+.env
+#src/graphql/types.d.ts
+src/graphql/types.ts
+
+# misc
+log-debug
+*.log
+.eslintcache
